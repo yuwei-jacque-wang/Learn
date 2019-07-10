@@ -5,4 +5,4 @@ A good exercise for loading data from txt file into NumPy array, including commo
 ### Download data from URL link directly
 ### Select observations with conditions
 ### Load data (and parse) from txt into NumPy array
-### Data cleaning
+### Standard data cleaning procedure
