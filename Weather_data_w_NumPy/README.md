@@ -36,3 +36,10 @@ A good exercise for loading data from txt file into NumPy array, including commo
     
   - pyplot.subplot, title, axis, figure
     - Common plotting function in pyplot for visualization
+    
+### Computing Analysis 
+  - def selecct(data, year)
+    - combination of boolean masks with logical operator to select only a range of data
+    
+  - np.vstack
+    - stack arrays vertically into one vector (one series). Similarly works for hstack
