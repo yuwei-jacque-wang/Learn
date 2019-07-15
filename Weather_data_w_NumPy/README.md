@@ -43,3 +43,6 @@ A good exercise for loading data from txt file into NumPy array, including commo
     
   - np.vstack
     - stack arrays vertically into one vector (one series). Similarly works for hstack
+    
+  - pyplot.fill_between
+    - Shade a range of two series in one plot
