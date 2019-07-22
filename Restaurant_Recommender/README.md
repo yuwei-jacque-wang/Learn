@@ -16,4 +16,5 @@ This project covers common strategies for building recommendation system. It con
 ### Correlation_Based_Recommender
   Based on Pearson's r correlation to recommend an item similar to items a user has chosen (item-based similarity). Built by Python pandas functions.
 - dataframe.pivot_table(data=,index=,values=,columns=)
-  - Create pivot table for variable "index". data is dataframe used, index is one variable determining the rows, columns are variables chosen for each columns, values are what's presented as major contents.
+  - Create pivot table for variable "index". 
+  - Data: dataframe used, index: one variable determining the rows, columns: variables chosen for each columns, values: major contents.
