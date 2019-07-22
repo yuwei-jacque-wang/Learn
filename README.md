@@ -6,5 +6,8 @@
 - Baby_names_w_Pandas: A good sample of EDA (Exploritary data analysis) with Pandas
 
 ### Buidling a recommendation system w. Python ML & AI (By Lilian Pierson)
-- Restaurant recommender: 1. Popularity based recommender 2. Correlation based rating recommendation system
+- Restaurant recommender: 
+  - Popularity based recommender 
+  - Correlation based rating recommendation system
+  
 - Classification based collaborative filting
