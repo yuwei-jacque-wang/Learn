@@ -5,6 +5,7 @@ This project covers common strategies for building recommendation system. It con
 General, non-personalized recommendation engine using only most popular items to give general recommendation. Built by Python pandas functions.
 - dataframe.groupby(group_name)[agg_column].count()
   - Aggregate counts of agg_column for each group_name (=SQL Group By)
+  - Instead of .count() also works for other functions like .mean()
  
 - dataframe.sort_values(column, ascending=True/False)
   - Sort values by ascending/descending order
