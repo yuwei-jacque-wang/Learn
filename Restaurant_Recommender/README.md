@@ -18,3 +18,7 @@ This project covers common strategies for building recommendation system. It con
 - dataframe.pivot_table(data=,index=,values=,columns=)
   - Create pivot table for variable "index". 
   - Data: dataframe used, index: one variable determining the rows, columns: variables chosen for each columns, values: major contents.
+  
+- dataframe.dropna(inplace=True/False)
+  - Drop rows or columns with NA value
+  
