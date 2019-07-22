@@ -46,3 +46,8 @@ A good exercise for loading data from txt file into NumPy array, including commo
     
   - pyplot.fill_between
     - Shade a range of two series in one plot
+    
+### Exercise
+  - series1[np.argmax(series2)]
+    - return the value in series 1 where value in series 2 is the maximum
+    - Example: years(np.argmax(temperature_mean)): return the year with highest mean temperature
