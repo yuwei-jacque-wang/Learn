@@ -34,3 +34,16 @@ Set and sort indexes, select rows by index value, make a stacked line plot in ma
   
 ### Yearly Top 10
 Sort dataframe by column, drop column, join table by index, count values in a series
+
+- dataframe.reset_index()
+  - Reset index column, to make multi indexes "same level"
+  
+- dataframe.drop([column1, column2], axis=1)
+  - Drop columns (may need to reset index first)
+  
+- dataframe.join(dataframe2, dataframe3)
+  - Join dataframes together into one by same index
+
+- def topten_comparison(gender, year0, year1)
+  - Function for creating (joining) top 10 names of given gender from year0 to year1 
+  
