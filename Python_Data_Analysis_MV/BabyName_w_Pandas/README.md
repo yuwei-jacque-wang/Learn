@@ -33,3 +33,4 @@ Set and sort indexes, select rows by index value, make a stacked line plot in ma
   - stackplot doesn't automatically give legend, need to set legend manually
   
 ### Yearly Top 10
+Sort dataframe by column, drop column, join table by index, count values in a series
