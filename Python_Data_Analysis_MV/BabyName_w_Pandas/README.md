@@ -28,7 +28,8 @@ Set and sort indexes, select rows by index value, make a stacked line plot in ma
 - dataframe.loc[index].unstack(level=1/0)
   - Unstack certain index (in []), level=0 or 1 is just shifting row and column
   
-pyplot.stackplot()
+- pyplot.stackplot()
   - Plot a stackplot, values might need to be transposed (add ".T") 
   - stackplot doesn't automatically give legend, need to set legend manually
   
+### Yearly Top 10
