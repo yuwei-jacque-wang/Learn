@@ -47,3 +47,16 @@ Sort dataframe by column, drop column, join table by index, count values in a se
 - def topten_comparison(gender, year0, year1)
   - Function for creating (joining) top 10 names of given gender from year0 to year1 
   
+### Name Fads
+Group data using groupby, compute aggregation, combine boolean masks
+
+- dataframe.groupby([column1, column2])[column_agg].sum()
+  - To aggregate the sum across column not selected. 
+  - .sum() function can be replaced by other computations (def functions as well)
+  
+- dataframe1 = dataframe2[boolean condition].copy()
+  - create dataframe1 by copying the conditional dataframe2
+  
+- dataframe.index.values
+  - gives the indexes of a dataframe, useful for assigning a list of indexes for using as loops
+
