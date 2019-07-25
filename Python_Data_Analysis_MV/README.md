@@ -13,3 +13,7 @@ Focuses on data analysis skills with NumPy, including:
 ### Baby names with Pandas (In Progress)
 
 Focuses on data analysis skills with Pandas, including:
+- Read csv files and import to dataframe, also create dataframes
+- Aggregate data and organize dataframes
+- Select values based on frequency, spikiness or other special patterns
+- Reference for plotting of time series data
