@@ -10,7 +10,7 @@ Focuses on data analysis skills with NumPy, including:
 - Computing max, min and average
 - Reference for plotting
 
-### Baby names with Pandas (In Progress)
+### Baby names with Pandas 
 
 Focuses on data analysis skills with Pandas, including:
 - Read csv files and import to dataframe, also create dataframes
