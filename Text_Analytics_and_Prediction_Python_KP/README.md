@@ -19,3 +19,10 @@ Usage of packages for simple tasks of text analytics and prediction
 2. Clustering data with KMeans
 3. Elbow curve for detecting optimal cluster size
 
+### Classification (NLTK preprocessing, TfidfVectorizer, LabelEncoder, MultinomialNB)
+1. Read text file and split into lines
+2. Preprocessing with NLTK stopwords and wordnet lemmatizer
+3. TF-IDF with customized tokenizer
+4. Transform labels to int classes with label encoder
+5. 3-classes classification with Naive Bayes
+6. Confusion metrics from sklearn.metrics
