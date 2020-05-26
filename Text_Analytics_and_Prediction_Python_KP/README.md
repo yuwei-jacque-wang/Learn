@@ -14,3 +14,8 @@ Usage of packages for simple tasks of text analytics and prediction
 3. Call functions of polarity and subjectivity
 4. Summarize sentiment in pie chart 
 
+### Clustering Text (TfidfVectorizer, KMeans)
+1. TF-IDF vectorization
+2. Clustering data with KMeans
+3. Elbow curve for detecting optimal cluster size
+
