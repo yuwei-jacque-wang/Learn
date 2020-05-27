@@ -26,3 +26,9 @@ Usage of packages for simple tasks of text analytics and prediction
 4. Transform labels to int classes with label encoder
 5. 3-classes classification with Naive Bayes
 6. Confusion metrics from sklearn.metrics
+
+### Predictive Text (NLTK tokenize, ngrams, sqlite3)
+1. Tokenize and preprocess
+2. Create ngrams
+3. Create database with sqlite3
+4. recommend next word
