@@ -19,3 +19,7 @@ Simple examples with commonly used packages for the following tasks:
 - Clustering
 - Classification
 - Predictive Text
+
+### PyTorch Essential Training: Deep Learning (By Jonathan Fernandes)
+A 3 layer feedforward neural network for multi-class classification of images from fashion MNIST dataset. <br>
+Good explanations of basic deep learning concepts such as constructing classes, loss, autograd and optimizers.
