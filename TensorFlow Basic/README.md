@@ -18,4 +18,4 @@
 #### Custom Model (Advanced)
 10. Wide and Deep Network (multiple input with concatenation) 
 11. Resnet Model (model subclassing)
-12. VGG (model subclassing with vars() function for flexible repetitions)
+12. Custom VGG (model subclassing with vars() function for flexible repetitions)
