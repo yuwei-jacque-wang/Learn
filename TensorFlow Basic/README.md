@@ -6,7 +6,7 @@
 3. Callbacks
 4. Functional API vs. Sequential API
 
-#### Custom Model
+#### Custom Model (Simple)
 5. Multiple Output (regression and classification)
      - case: wine quality and type prediction
 6. Siamese Network (multiple input)
@@ -14,3 +14,8 @@
 7. Custom Loss (both function and class)
 8. Lambda Layer
 9. Custom Layer
+
+#### Custom Model (Advanced)
+10. Wide and Deep Network (multiple input with concatenation) 
+11. Resnet Model (model subclassing)
+12. VGG (model subclassing with vars() function for flexible repetitions)
