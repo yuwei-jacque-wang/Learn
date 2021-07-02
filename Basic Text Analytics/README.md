@@ -1,5 +1,6 @@
 # Text Analytics and Prediction with Python
 Usage of packages for simple tasks of text analytics and prediction
+Source: Linkedin Learning
 
 ### Word Cloud (wordcloud package)
 1. Read entire text file as one long string
