@@ -1,21 +1,25 @@
-## TensorFlow Basic Models
+## TensorFlow Computer Vision Models
 
-#### Basic Keras
-1. Simple Regression (Sequential API)
-2. Simple Classification (Sequential API)
-3. Callbacks
-4. Functional API vs. Sequential API
+#### Basic Training and Validation
+1. Data Generator
 
-#### Custom Model (Simple)
-5. Multiple Output (regression and classification)
-     - case: wine quality and type prediction
-6. Siamese Network (multiple input)
-     - case: similarity between clothing, Fashion MNIST
-7. Custom Loss (both function and class)
-8. Lambda Layer
-9. Custom Layer
+#### Transfer Learning
+2. Pre-trained on InceptionV3
+3. Pre-trained on ResNet50
+4. Object Localization
 
-#### Custom Model (Advanced)
-10. Wide and Deep Network (multiple input with concatenation) 
-11. Resnet Model (model subclassing)
-12. Custom VGG (model subclassing with vars() function for flexible repetitions)
+#### Object Detection
+5. From TensorFlow Hub
+6. Object Detection API
+
+#### Image Segmentation
+7. Image Segmentation with FCN8 (pre-trained on VGG16)
+8. Semantic Segmntation with UNet
+9. Instance Segmentation with Mask-RCNN
+
+#### CV Model Interpretation
+10. Class Activation Map (CAM)
+11. Saliency Map 
+12. Gradient Weighted Class Activation Map (Grad-CAM)
+
+
