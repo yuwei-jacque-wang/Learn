@@ -12,4 +12,6 @@
 
 #### NLP with Neural Network
 7. Logistic Regression with PyTorch
+8. RNN Language Model
+9. Neural Machine Translation (NMT)
 
